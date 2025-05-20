@@ -1,4 +1,4 @@
-Author: Nimesh Neupane
+Author: Nimesh Neupane 
 Overview
 This test demonstrates a simple web-based tool to filter and explore various cat breeds using data from The Cat API. The app allows users to display all cat names, filter by health issues, view weight in imperial or metric, and compare intelligence and child-friendliness levels. It is built using HTML, CSS, and JavaScript.
 
